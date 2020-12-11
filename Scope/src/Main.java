@@ -3,6 +3,7 @@ public class Main {
     public static void main(String[] args) {
      /*  KapsamSınıfı kapsamSınıfı = new KapsamSınıfı();
        kapsamSınıfı.onileCarp();
+       //Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
 */
         //Java  Lokal tanımlanmış olan privateDeğisken kullandı private olarak tanımlananı değil
         //private olan değişkeni kullanmak için this anahtar kelimesini kullanmalıyız.
